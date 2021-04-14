@@ -8,6 +8,5 @@ Panels included:
     * Attenuators (Analog Output)
     * Sallen-Key VCF (Barton Musical Circuits)
     * Noise Cornucopia (Music From Outer Space)
-    * VC LFO (Music From Outer Space)
     * VCO (Music From Outer Space)
   
